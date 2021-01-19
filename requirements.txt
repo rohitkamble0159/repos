@@ -1,0 +1,11 @@
+setuptools
+ez_setup
+sklearn
+scipy
+pandas
+keras
+matplotlib
+tensorflow
+statsmodels
+xgboost
+plotly
